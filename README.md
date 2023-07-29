@@ -9,6 +9,6 @@ This is a tool written in the Python Programming Language. It is designed to sim
 
 Thanks for visiting my profile, if there is any change you want to make feel free to add a pull request or contact me.
 
-Creator: Rafael Rodriguez 
+Creator: Rafael Rodriguez de san Miguel
 
 Contact: rafarsmb07@gmail.com
